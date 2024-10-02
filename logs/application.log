@@ -1,0 +1,16 @@
+2024-10-02 23:45:59,524 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 20843 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-02 23:45:59,540 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-02 23:46:03,503 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.421 seconds (JVM running for 5.446)
+2024-10-03 01:51:59,959 [http-nio-8080-exec-1] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-03 01:52:00,046 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - name set with ->dungvm
+2024-10-03 01:52:00,238 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - get id from cart ->1
+2024-10-03 01:52:00,387 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - {SUCCESS} Save username: dungvm
+2024-10-03 01:52:53,861 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.CartController - {SUCCESS} save the new item for user : dungvm
+2024-10-03 01:53:01,591 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-03 01:53:05,005 [http-nio-8080-exec-6] INFO  com.example.demo.controllers.ItemController - itemId you input is : 1
+2024-10-03 01:53:09,055 [http-nio-8080-exec-7] INFO  com.example.demo.controllers.ItemController - item name you input is : Round Widget
+2024-10-03 01:53:13,713 [http-nio-8080-exec-8] INFO  com.example.demo.controllers.OrderController - {SUCCESS} save a new submitted order from user -> dungvm
+2024-10-03 01:53:17,255 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.OrderController - {SUCCESS} display the history from dungvm
+2024-10-03 01:53:22,690 [http-nio-8080-exec-10] INFO  com.example.demo.controllers.OrderController - {SUCCESS} save a new submitted order from user -> dungvm
+2024-10-03 02:02:45,888 [http-nio-8080-exec-3] ERROR com.example.demo.controllers.OrderController - {FAIL} username dungvm1 is not found in db.
+2024-10-03 02:03:21,220 [http-nio-8080-exec-4] ERROR com.example.demo.controllers.CartController - {FAIL} for username : dungvm1, Cannot find user.
