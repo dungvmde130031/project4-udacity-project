@@ -23,3 +23,60 @@
 2024-10-04 15:19:39,307 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 95263 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
 2024-10-04 15:19:39,318 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
 2024-10-04 15:19:43,555 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.824 seconds (JVM running for 5.997)
+2024-10-04 22:13:56,339 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 7601 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-04 22:13:56,344 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-04 22:14:00,290 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.315 seconds (JVM running for 5.447)
+2024-10-04 22:14:57,877 [http-nio-8080-exec-2] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:16:27,587 [http-nio-8080-exec-4] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:16:28,724 [http-nio-8080-exec-6] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:20:17,076 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:20:21,358 [http-nio-8080-exec-5] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:20:21,397 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.UserController - name set with ->dungvm
+2024-10-04 22:20:21,485 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.UserController - get id from cart ->1
+2024-10-04 22:20:21,611 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.UserController - {SUCCESS} Save username: dungvm
+2024-10-04 22:21:00,980 [http-nio-8080-exec-8] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:21:13,894 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:21:25,371 [http-nio-8080-exec-2] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:21:31,147 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:21:36,944 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:21:46,202 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:29:55,276 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 10483 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-04 22:29:55,281 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-04 22:29:59,163 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.184 seconds (JVM running for 5.205)
+2024-10-04 22:30:06,411 [http-nio-8080-exec-1] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:30:06,470 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - name set with ->dungvm
+2024-10-04 22:30:06,567 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - get id from cart ->1
+2024-10-04 22:30:06,691 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - {SUCCESS} Save username: dungvm
+2024-10-04 22:30:41,202 [http-nio-8080-exec-5] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:30:45,568 [http-nio-8080-exec-6] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:33:39,638 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 11140 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-04 22:33:39,645 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-04 22:33:43,321 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 3.985 seconds (JVM running for 4.926)
+2024-10-04 22:33:50,074 [http-nio-8080-exec-2] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:33:50,138 [http-nio-8080-exec-2] INFO  com.example.demo.controllers.UserController - name set with ->dungvm
+2024-10-04 22:33:50,250 [http-nio-8080-exec-2] INFO  com.example.demo.controllers.UserController - get id from cart ->1
+2024-10-04 22:33:50,354 [http-nio-8080-exec-2] INFO  com.example.demo.controllers.UserController - {SUCCESS} Save username: dungvm
+2024-10-04 22:34:00,311 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:34:45,343 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 11342 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-04 22:34:45,347 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-04 22:34:49,490 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.571 seconds (JVM running for 5.745)
+2024-10-04 22:34:55,370 [http-nio-8080-exec-1] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:34:55,422 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - name set with ->dungvm
+2024-10-04 22:34:55,521 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - get id from cart ->1
+2024-10-04 22:34:55,640 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - {SUCCESS} Save username: dungvm
+2024-10-04 22:35:01,413 [http-nio-8080-exec-4] ERROR com.example.demo.controllers.CartController - {FAIL} for username : dungvm1, Cannot find user.
+2024-10-04 22:35:14,152 [http-nio-8080-exec-6] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:35:17,655 [http-nio-8080-exec-7] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:35:27,337 [http-nio-8080-exec-10] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:35:30,758 [http-nio-8080-exec-9] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:35:43,485 [http-nio-8080-exec-2] INFO  com.example.demo.controllers.ItemController - itemId you input is : 1
+2024-10-04 22:35:44,588 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.ItemController - itemId you input is : 1
+2024-10-04 22:35:58,564 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.ItemController - itemId you input is : 1
+2024-10-04 22:36:05,307 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:36:08,554 [http-nio-8080-exec-5] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:36:12,475 [http-nio-8080-exec-6] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:36:32,199 [http-nio-8080-exec-10] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:36:33,361 [http-nio-8080-exec-9] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
+2024-10-04 22:36:39,058 [http-nio-8080-exec-8] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:36:42,227 [http-nio-8080-exec-2] INFO  com.example.demo.controllers.UserController - username with ->dungvm
+2024-10-04 22:36:45,186 [http-nio-8080-exec-1] WARN  com.example.demo.infrastructure.security.JWTAuthenticationFilter - Access is denied.
