@@ -11,6 +11,14 @@
             <PatternLayout pattern="${LOG_PATTERN}"/>
         </Console>
 
+        <Http name="SplunkAppender" url="http://localhost:8088/services/collector" method="POST">
+            <Headers>
+                <Property name="Authorization">0fd7b766-a74b-4308-8d2f-3053ba290b39</Property>
+            </Headers>
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss,SSS} [%thread] %-5level %logger{36} - %msg%n" />
+            <Property name="sourcetype">Application</Property>
+        </Http>
+
         <RollingFile name="applicationLog" fileName="logs/application.log"
                      filePattern="logs/application-%d{yyyy-MM-dd}-%i.log">
             <PatternLayout pattern="${LOG_PATTERN}"/>

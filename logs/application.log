@@ -14,3 +14,12 @@
 2024-10-03 01:53:22,690 [http-nio-8080-exec-10] INFO  com.example.demo.controllers.OrderController - {SUCCESS} save a new submitted order from user -> dungvm
 2024-10-03 02:02:45,888 [http-nio-8080-exec-3] ERROR com.example.demo.controllers.OrderController - {FAIL} username dungvm1 is not found in db.
 2024-10-03 02:03:21,220 [http-nio-8080-exec-4] ERROR com.example.demo.controllers.CartController - {FAIL} for username : dungvm1, Cannot find user.
+2024-10-03 02:55:08,144 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 55461 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-03 02:55:08,151 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-03 02:55:12,809 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.997 seconds (JVM running for 6.414)
+2024-10-03 03:02:06,469 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 56943 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-03 03:02:06,480 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-03 03:02:10,606 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.549 seconds (JVM running for 6.421)
+2024-10-04 15:19:39,307 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on Dung-Vo with PID 95263 (/Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vomanh.dung in /Users/vomanh.dung/Documents/Coding/UDACITY/nd035-c4-Security-and-DevOps)
+2024-10-04 15:19:39,318 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2024-10-04 15:19:43,555 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 4.824 seconds (JVM running for 5.997)
